@@ -30,9 +30,17 @@ management for better efficiency and customer service
 ## Screenshots
 
 ![image](https://github.com/shanukafer98/Service-Center-Management-System/assets/141110476/3c1bdc3f-530c-493c-ba21-713e16373a11)
+
+
 ![image](https://github.com/shanukafer98/Service-Center-Management-System/assets/141110476/3b9aa626-e46c-426e-9a03-f9af9759c67a)
+
+
 ![image](https://github.com/shanukafer98/Service-Center-Management-System/assets/141110476/fb2fff15-91d5-4e33-9951-3e853513eacb)
+
+
 ![image](https://github.com/shanukafer98/Service-Center-Management-System/assets/141110476/c609f14b-6169-4109-8df0-7603ee9fdbe9)
+
+
 ![image](https://github.com/shanukafer98/Service-Center-Management-System/assets/141110476/691b7cd5-ee9e-4d22-8b73-ce191b0f9643)
 
 
